@@ -1,3 +1,15 @@
+body {
+	background-color: #e07b7b;
+}
+li {
+	list-style: none;
+}
+.second-item {
+	width: 600px;
+	/* background-color: whitesmoke; */
+	margin: 0 auto;
+}
+
 .second-item ul {
 	display: flex;
 	justify-content: space-between;
