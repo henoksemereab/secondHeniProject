@@ -1,0 +1,4 @@
+.second-item ul {
+	display: flex;
+	justify-content: space-between;
+}
